@@ -1,6 +1,6 @@
 <img src="https://postfiles.pstatic.net/MjAyNDAyMDhfMTMz/MDAxNzA3MzI1MjMxNTkx.KAf2iCjMG9bNdWEj2_LyjVb9vlKwwWMyLWNypoihHnAg.r5WHaWzPuLD3I_SmaMb1QKyi2fJ4OJ58BEXHT7h5O5gg.JPEG.mercury0502/tulip_wallpaper_mobile.jpg?type=w966" width="1000" height="300">
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🐤 SNS 🐤</h2><br>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🐤 SNS 🐤</h2>
     <align="center">
       <a href="https://velog.io/@lwittyl/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-ffdddd?style=flat-square&logo=Velog&logoColor=white"/></a>
       <a href="https://www.instagram.com/_witty._0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffe5dd?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -8,7 +8,7 @@
 <br>
 <br>
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🫧 Tools 🫧</h2><br>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🫧 Tools 🫧</h2>
     <align="center">
       <img src="https://img.shields.io/badge/Notion-fff6dd?style=flat-square&logo=notion&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Slack-f6ffdd?style=flat-square&logo=slack&logoColor=white"/></a>
@@ -21,7 +21,7 @@
 <br>
 <br>
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🍊 Tech Stack 🍊</h2><br>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🍊 Tech Stack 🍊</h2>
     <align="center">
       <img src="https://img.shields.io/badge/Python-ddddff?style=flat-square&logo=Python&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/C++-e5ddff?style=flat-square&logo=C++&logoColor=white"/></a>
