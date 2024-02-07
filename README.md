@@ -18,16 +18,17 @@
       <img src="https://img.shields.io/badge/Github-ddeeff?style=flat-square&logo=Github&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/VSCode-dde5ff?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
     </div>
-<h3 align="center">🍊 Tech Stack 🍊</h3>
 <div align="center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🍊 Tech Stack 🍊</h2><br>
+    <div align="center">
 
-  <img src="https://img.shields.io/badge/Python-ddddff?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-e5ddff?style=flat-square&logo=C++&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-eeddff?style=flat-square&logo=Java&logoColor=white"/></a>
-  <br>
-  <img src="https://img.shields.io/badge/C-f6ddff?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/pytorch-ffddff?style=flat-square&logo=pytorch&logoColor=white"/></a>
-  </div>
+      <img src="https://img.shields.io/badge/Python-ddddff?style=flat-square&logo=Python&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/C++-e5ddff?style=flat-square&logo=C++&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Java-eeddff?style=flat-square&logo=Java&logoColor=white"/></a>
+      <br>
+      <img src="https://img.shields.io/badge/C-f6ddff?style=flat-square&logo=C&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/pytorch-ffddff?style=flat-square&logo=pytorch&logoColor=white"/></a>
+      </div>
 
 <h3 align="center">💗 </h3>
 
