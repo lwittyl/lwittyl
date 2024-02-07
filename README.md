@@ -1,7 +1,8 @@
 <img src="https://postfiles.pstatic.net/MjAyNDAyMDhfMTMz/MDAxNzA3MzI1MjMxNTkx.KAf2iCjMG9bNdWEj2_LyjVb9vlKwwWMyLWNypoihHnAg.r5WHaWzPuLD3I_SmaMb1QKyi2fJ4OJ58BEXHT7h5O5gg.JPEG.mercury0502/tulip_wallpaper_mobile.jpg?type=w966" width="1000" height="300">
-&nbsp;
-&nbsp;
-&nbsp;
+<br>
+<br>
+<br>
+<br>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🐤 SNS 🐤</h2><br>
     <div align="center">
@@ -23,6 +24,10 @@
       <img src="https://img.shields.io/badge/Github-ddeeff?style=flat-square&logo=Github&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/VSCode-dde5ff?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
     </div>
+<br>
+<br>
+<br>
+<br>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🍊 Tech Stack 🍊</h2><br>
     <div align="center">
@@ -33,6 +38,8 @@
       <img src="https://img.shields.io/badge/C-f6ddff?style=flat-square&logo=C&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/pytorch-ffddff?style=flat-square&logo=pytorch&logoColor=white"/></a>
       </div>
+<br>
+<br>
 
 <h3 align="center">💗 </h3>
 
