@@ -27,3 +27,13 @@
   <img src="https://img.shields.io/badge/C-f6ddff?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/pytorch-ffddff?style=flat-square&logo=pytorch&logoColor=white"/></a>
   </div>
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻 </h3>
+
+<div align="center">
+
+![lwittyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwittyl&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwittyl&langs_count=10&hide_progress=true)](https://github.com/lwittyl)
+
+</div>
