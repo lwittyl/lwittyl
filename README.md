@@ -9,7 +9,7 @@
 <br>
 <br>
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🫧 Tools 🫧</h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🍒 Tools 🍒</h2>
     <div align="center">
       <img src="https://img.shields.io/badge/Notion-fff6dd?style=flat-square&logo=notion&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Slack-f6ffdd?style=flat-square&logo=slack&logoColor=white"/></a>
