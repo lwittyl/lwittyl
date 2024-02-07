@@ -10,7 +10,7 @@
 
 <h3 align="center">🫧 Tools 🫧</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Notion-FAF0E4?style=flat-square&logo=notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Notion-FFCEC7?style=flat-square&logo=notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Slack-EECFBB?style=flat-square&logo=slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-F6B99D?style=flat-square&logo=discord&logoColor=white"/></a>
   <br>  
