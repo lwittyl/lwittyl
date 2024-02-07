@@ -31,8 +31,6 @@
       <img src="https://img.shields.io/badge/pytorch-ffddff?style=flat-square&logo=pytorch&logoColor=white"/></a>
       </div>
 <br>
-<br>
-
 <h3 align="center">💗 </h3>
 
 ![lwittyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwittyl&show_icons=true&theme=shadow_red)
