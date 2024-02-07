@@ -3,19 +3,19 @@
 
 <h3 align="center">🐤 SNS 🐤</h3>
 <div align="center">
-  <a href="https://velog.io/@lwittyl/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-DADAFC?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_witty._0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-EFBAD6?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:mercury0502@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-FFD6AA?style=flat-square&logo=Gmail&logoColor=white&link=mercury0502@dgu.ac.kr"/></a>
+  <a href="https://velog.io/@lwittyl/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-ffdddd?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_witty._0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffe5dd?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:mercury0502@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-ffeedd?style=flat-square&logo=Gmail&logoColor=white&link=mercury0502@dgu.ac.kr"/></a>
 
 <h3 align="center">🫧 Tools 🫧</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Notion-FFCEC7?style=flat-square&logo=notion&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Slack-EECFBB?style=flat-square&logo=slack&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Discord-F6B99D?style=flat-square&logo=discord&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Notion-fff6dd?style=flat-square&logo=notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Slack-f6ffdd?style=flat-square&logo=slack&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Discord-eeffdd?style=flat-square&logo=discord&logoColor=white"/></a>
   <br>  
-  <img src="https://img.shields.io/badge/Git-EACACB?style=flat-square&logo=Git&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Github-F8DAE2?style=flat-square&logo=Github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/VSCode-DEB3CF?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Git-ddf6ff?style=flat-square&logo=Git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Github-ddeeff?style=flat-square&logo=Github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/VSCode-dde5ff?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 </div>
 <h3 align="center">🍊 Tech Stack 🍊</h3>
 <div align="center">
