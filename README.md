@@ -1,10 +1,6 @@
 <img src="https://postfiles.pstatic.net/MjAyNDAyMDhfMTMz/MDAxNzA3MzI1MjMxNTkx.KAf2iCjMG9bNdWEj2_LyjVb9vlKwwWMyLWNypoihHnAg.r5WHaWzPuLD3I_SmaMb1QKyi2fJ4OJ58BEXHT7h5O5gg.JPEG.mercury0502/tulip_wallpaper_mobile.jpg?type=w966" width="1000" height="300">
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 <h3 align="center">🐤 SNS 🐤</h3>
 <div align="center">
   <a href="https://velog.io/@lwittyl/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-DADAFC?style=flat-square&logo=Velog&logoColor=white"/></a>
@@ -21,3 +17,13 @@
   <img src="https://img.shields.io/badge/Github-F8DAE2?style=flat-square&logo=Github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/VSCode-DEB3CF?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 </div>
+<h3 align="center">🍊 Tech Stack 🍊</h3>
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-ddddff?style=flat-square&logo=Python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-e5ddff?style=flat-square&logo=C++&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-eeddff?style=flat-square&logo=Java&logoColor=white"/></a>
+  <br>
+  <img src="https://img.shields.io/badge/C-f6ddff?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/pytorch-ffddff?style=flat-square&logo=pytorch&logoColor=white"/></a>
+  </div>
