@@ -7,16 +7,17 @@
       <a href="https://www.instagram.com/_witty._0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffe5dd?style=flat-square&logo=Instagram&logoColor=white"/></a>
       <a href="mailto:mercury0502@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-ffeedd?style=flat-square&logo=Gmail&logoColor=white&link=mercury0502@dgu.ac.kr"/></a>
 
-<h3 align="center">🫧 Tools 🫧</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Notion-fff6dd?style=flat-square&logo=notion&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Slack-f6ffdd?style=flat-square&logo=slack&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Discord-eeffdd?style=flat-square&logo=discord&logoColor=white"/></a>
-  <br>  
-  <img src="https://img.shields.io/badge/Git-ddf6ff?style=flat-square&logo=Git&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Github-ddeeff?style=flat-square&logo=Github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/VSCode-dde5ff?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
-</div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🫧 Tools 🫧</h2><br>
+    <div align="center">
+      <img src="https://img.shields.io/badge/Notion-fff6dd?style=flat-square&logo=notion&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Slack-f6ffdd?style=flat-square&logo=slack&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Discord-eeffdd?style=flat-square&logo=discord&logoColor=white"/></a>
+      <br>  
+      <img src="https://img.shields.io/badge/Git-ddf6ff?style=flat-square&logo=Git&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Github-ddeeff?style=flat-square&logo=Github&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/VSCode-dde5ff?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+    </div>
 <h3 align="center">🍊 Tech Stack 🍊</h3>
 <div align="center">
 
