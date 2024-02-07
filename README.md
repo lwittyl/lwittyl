@@ -8,12 +8,10 @@
       <a href="https://velog.io/@lwittyl/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-ffdddd?style=flat-square&logo=Velog&logoColor=white"/></a>
       <a href="https://www.instagram.com/_witty._0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffe5dd?style=flat-square&logo=Instagram&logoColor=white"/></a>
       <a href="mailto:mercury0502@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-ffeedd?style=flat-square&logo=Gmail&logoColor=white&link=mercury0502@dgu.ac.kr"/></a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<br>
+<br>
+<br>
+<br>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🫧 Tools 🫧</h2><br>
     <div align="center">
