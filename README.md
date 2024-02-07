@@ -21,7 +21,6 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🍊 Tech Stack 🍊</h2><br>
     <div align="center">
-
       <img src="https://img.shields.io/badge/Python-ddddff?style=flat-square&logo=Python&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/C++-e5ddff?style=flat-square&logo=C++&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Java-eeddff?style=flat-square&logo=Java&logoColor=white"/></a>
