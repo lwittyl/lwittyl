@@ -1,4 +1,4 @@
-<img src="https://file.notion.so/f/f/009a30ff-1579-476d-a248-96bf29a9a004/3ac7f57d-b5c3-42e5-9804-067cf2e87e93/Untitled.jpeg?id=f94cb775-a649-4a28-a564-b2bab5c2f251&table=block&spaceId=009a30ff-1579-476d-a248-96bf29a9a004&expirationTimestamp=1707436800000&signature=R6DfB5UAMw7mQITYWAIi6kttyuvR5uIuP8V0Y20pT7k&downloadName=Untitled.jpeg" width="200" height="400">
+<img src="file:///Users/parkchehyun/Downloads/9A220030-ACC9-4CB8-92B0-DBEC6CE4BB5F.jpg" width="200" height="400">
 
 <!--
 **lwittyl/lwittyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
