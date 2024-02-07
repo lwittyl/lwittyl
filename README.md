@@ -1,4 +1,4 @@
-<img src="https://postfiles.pstatic.net/MjAyNDAyMDhfODYg/MDAxNzA3MzI1MDczMzcy.XsjKmBM_0VTxy9nR4Bd_fVUhBRPYPxlQm5xOakT5tpEg.y7VRyin7xvmVWsKYnUVbRZx-y6RuewFm2dReSG0buGgg.JPEG.mercury0502/9A220030-ACC9-4CB8-92B0-DBEC6CE4BB5F.jpg?type=w966" width="1600" height="400">
+<img src="https://postfiles.pstatic.net/MjAyNDAyMDhfODYg/MDAxNzA3MzI1MDczMzcy.XsjKmBM_0VTxy9nR4Bd_fVUhBRPYPxlQm5xOakT5tpEg.y7VRyin7xvmVWsKYnUVbRZx-y6RuewFm2dReSG0buGgg.JPEG.mercury0502/9A220030-ACC9-4CB8-92B0-DBEC6CE4BB5F.jpg?type=w966" width="800" height="200">
 
 <!--
 **lwittyl/lwittyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
