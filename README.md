@@ -7,17 +7,14 @@
   <a href="https://velog.io/@lwittyl/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-DADAFC?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.instagram.com/_witty._0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-EFBAD6?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:mercury0502@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-FFD6AA?style=flat-square&logo=Gmail&logoColor=white&link=mercury0502@dgu.ac.kr"/></a>
-<!--
-**lwittyl/lwittyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🫧 Tools 🫧</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Notion-FAF0E4?style=flat-square&logo=notion&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Slack-EECFBB?style=flat-square&logo=slack&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Discord-F6B99D?style=flat-square&logo=discord&logoColor=white"/></a>
+  <br>  
+  <img src="https://img.shields.io/badge/Git-FDF2F0?style=flat-square&logo=Git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Github-F8DAE2?style=flat-square&logo=Github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/VSCode-DEB3CF?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+</div>
