@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Slack-EECFBB?style=flat-square&logo=slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-F6B99D?style=flat-square&logo=discord&logoColor=white"/></a>
   <br>  
-  <img src="https://img.shields.io/badge/Git-2ACACB?style=flat-square&logo=Git&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Git-EACACB?style=flat-square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github-F8DAE2?style=flat-square&logo=Github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/VSCode-DEB3CF?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 </div>
