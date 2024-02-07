@@ -32,8 +32,6 @@
 
 <div align="center">
 
-![lwittyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwittyl&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwittyl&langs_count=10&hide_progress=true)](https://github.com/lwittyl)
+![lwittyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwittyl&show_icons=true&theme=shadow_red)
 
 </div>
