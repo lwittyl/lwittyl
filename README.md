@@ -27,11 +27,9 @@
     <div align="center">
       <img src="https://img.shields.io/badge/Python-ddddff?style=flat-square&logo=Python&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/C++-e5ddff?style=flat-square&logo=C++&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Java-eeddff?style=flat-square&logo=Java&logoColor=white"/></a>
       <br>
+      <img src="https://img.shields.io/badge/Java-eeddff?style=flat-square&logo=Java&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/C-f6ddff?style=flat-square&logo=C&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/pytorch-ffddff?style=flat-square&logo=pytorch&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Spring-ffdddd?style=flat-square&logo=Spring&logoColor=white"/></a>
       </div>
 <br>
 <h3 align="center">💗 </h3>
