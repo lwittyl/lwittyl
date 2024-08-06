@@ -35,6 +35,5 @@
 <h3 align="center">💗 </h3>
 
 ![lwittyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwittyl&hide=contribs,prs&show_icons=true&theme=shadow_red)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lwittyl&repo=github-readme-stats&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
