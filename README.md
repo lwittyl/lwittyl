@@ -36,6 +36,6 @@
 <br>
 <h3 align="center">💗 </h3>
 
-![lwittyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwittyl&hide=contribs,prs&show_icons=true&theme=shadow_red)
+![lwittyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwittyl&show_icons=true&theme=shadow_red)
 
 </div>
