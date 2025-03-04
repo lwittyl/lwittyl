@@ -8,6 +8,7 @@
 - DGU UMC 7기 | WEB 챌린저 `2024.09 ~ 2025.02`
 
 <h3>💗 Stack</h3>
+<div>
   <img src="https://img.shields.io/badge/HTML5-ddddff?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-e5ddff?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-eeddff?style=flat-square&logo=javascript&logoColor=white"/>
@@ -18,7 +19,7 @@
   <img src="https://img.shields.io/badge/C-f6ddff?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-ddddff?style=flat-square&logo=C++%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-e5ddff?style=flat-square&logo=Java&logoColor=white"/>
-
+</div>
 <h3>💗</h3>
 
 ![lwittyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwittyl&show_icons=true&theme=shadow_red)
