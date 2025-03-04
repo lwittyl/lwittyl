@@ -3,9 +3,9 @@
 </div>
 <br>
 <h2>💗 Career</h2>
-<li> DGU UMC 8기 | WEB 파트장 ( 2025.02 ~ now )</li>
-<li> WAYCEN | 제품개발팀 Manager ( 2025.01 ~ now )</li>
-<li> DGU UMC 7기 | WEB 챌린저 ( 2024.09 ~ 2025.02 )</li>
+<li> <strong>WAYCEN | </strong>제품개발팀 Manager ( 2025.01 ~ now )</li>
+<li> <strong>DGU UMC 8기 | </strong>WEB 파트장 ( 2025.02 ~ now )</li>
+<li> <strong>DGU UMC 7기 | </strong>WEB 챌린저 ( 2024.09 ~ 2025.02 )</li>
 
 <h2>💗 Stack</h2>
 <div>
