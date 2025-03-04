@@ -2,9 +2,7 @@
     <img src="https://postfiles.pstatic.net/MjAyNDAyMDhfMTMz/MDAxNzA3MzI1MjMxNTkx.KAf2iCjMG9bNdWEj2_LyjVb9vlKwwWMyLWNypoihHnAg.r5WHaWzPuLD3I_SmaMb1QKyi2fJ4OJ58BEXHT7h5O5gg.JPEG.mercury0502/tulip_wallpaper_mobile.jpg?type=w966">
 </div>
 <br>
-<div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">🐤 SNS 🐤</h2>
-    <div align="center">
       <a href="https://0witty0.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ffdddd?style=flat-square&logo=Tistory&logoColor=white"/></a>
       <a href="https://www.instagram.com/_witty._0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffe5dd?style=flat-square&logo=Instagram&logoColor=white"/></a>
       <a href="mailto:mercury0502@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-ffeedd?style=flat-square&logo=Gmail&logoColor=white&link=mercury0502@dgu.ac.kr"/></a>
