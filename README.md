@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/C++-ddddff?style=flat-square&logo=C++%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-e5ddff?style=flat-square&logo=Java&logoColor=white"/>
 </div>
-<h2>💗</h2>
+<h2>Stats</h2>
 
 ![lwittyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwittyl&show_icons=true&theme=shadow_red)
 
