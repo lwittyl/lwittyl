@@ -11,6 +11,7 @@
 <div>
   <img src="https://img.shields.io/badge/HTML5-ddddff?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-e5ddff?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-e5ddff?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-eeddff?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typescript-f6ddff?style=flat-square&logo=Typescript&logoColor=white"/>
 </div>
