@@ -9,20 +9,21 @@
 
 <h2>Stack</h2>
 <div>
-  <img src="https://img.shields.io/badge/HTML5-ddddff?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e5ddff?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-e5ddff?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-e5ddff?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-eeddff?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-f6ddff?style=flat-square&logo=Typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-e5ddff?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-e5ddff?style=flat-square&logo=Typescript&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Vue.js-eeddff?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-e5ddff?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-e5ddff?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-e5ddff?style=flat-square&logo=docker&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Python-eeddff?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-f6ddff?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-ddddff?style=flat-square&logo=C++%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-e5ddff?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-e5ddff?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-e5ddff?style=flat-square&logo=C++%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-e5ddff?style=flat-square&logo=Java&logoColor=white"/>
 </div>
 <h2>Stats</h2>
